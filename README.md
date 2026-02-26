@@ -5,6 +5,7 @@ Changellenge Education  [Changellenge education](https://changellenge-education.
 интерпретация результатов и разработка дашборда выполнены самостоятельно.
 
 # Анализ рынка недвижимости по регионам и прогнозирование цены за аренду 
+  End-to-end проект анализа данных и машинного обучения
 
 ## Краткое описание проекта
 
@@ -76,7 +77,7 @@ EDA → feature engineering → обучение моделей →
 
 [Посмотреть интерактивный дашборд в Tableau Public](https://public.tableau.com/app/profile/aleksandra.grabovenko/viz/_17530983482070/sheet15#1)
   
-![Анализ рынка недвижимости по регионам](https://github.com/Alexa-grab/desktop-tutorial/blob/main/Dashboard%20Rental%20Price%20Prediction.png)
+![[Rental Market Analysis Dashboard]](https://github.com/Alexa-grab/desktop-tutorial/blob/main/Dashboard%20Rental%20Price%20Prediction.png)
 
 
 ## Этапы решения:
@@ -233,6 +234,7 @@ EDA → feature engineering → обучение моделей →
 аренды квартир в массовом сегменте. Модель успешно решает поставленную задачу и может быть рекомендована для внедрения в бизнес-процессы оценки недвижимости.
 
  
+
 
 
 
